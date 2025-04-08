@@ -1,3 +1,3 @@
-GITHUB para aprendizagem em manuseio
+GITHUB para aprendizagem e manuseio
 
 *Projetos em C
