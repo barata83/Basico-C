@@ -1,3 +1,3 @@
-GITHUB para aprendizagem e manuseio
+Estudante de analise e desenvolvimento de sistema aprendendo Github 
 
-*Projetos em C
+Pagina para trabalhos de aprendizado em C
